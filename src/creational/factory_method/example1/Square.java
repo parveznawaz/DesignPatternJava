@@ -1,4 +1,4 @@
-package creational.factory.example1;
+package creational.factory_method.example1;
 
 public class Square implements Shape {
     @Override
